@@ -12,7 +12,7 @@ The system combines **rule-based analysis with real-time insights using LLM inte
 ### Frontend
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript
 
 ### Backend
 - Node.js  
@@ -112,7 +112,7 @@ The system combines **rule-based analysis with real-time insights using LLM inte
 # 🖼️ UI Preview
 
 <p align="center">
-  <img src="images/nex1.png" width="700"/>
+  <img src="https://github.com/sanjaysubramanian04/NexmentorX/blob/47140c708a55addbd9992c379c828f5b3008f038/next1.png" width="700"/>
   <img src="images/nex2.png" width="700"/>
   <img src="images/nex3.png" width="700"/>
 </p>
