@@ -26,8 +26,7 @@ The system combines **rule-based analysis with real-time insights using LLM inte
 - Gemini LLM API (for real-time roadmap generation)
 
 ### Deployment
-- Vercel (Frontend Hosting)  
-- Backend hosted on cloud environment  
+- Vercel (Hosting)  
 
 ---
 
