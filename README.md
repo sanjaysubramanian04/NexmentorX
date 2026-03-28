@@ -115,7 +115,7 @@ The system combines **rule-based analysis with real-time insights using LLM inte
   <img src="https://github.com/sanjaysubramanian04/NexmentorX/blob/47140c708a55addbd9992c379c828f5b3008f038/next1.png" width="700"/>
   <img src="https://github.com/sanjaysubramanian04/NexmentorX/blob/d2e161f313cc9256b2410cb3d49c1c95d5c61ee1/next2.png" width="700"/>
   <img src="https://github.com/sanjaysubramanian04/NexmentorX/blob/3065a47cef6a505bc0853ae7eedf81e4f3b0745f/next3.png" width="700"/>
-  <img src="images/nex3.png" width="700"/>
+  <img src="https://github.com/sanjaysubramanian04/NexmentorX/blob/2233c2257fd8640ba1cb58c131a7c4f203d82741/next4.png" width="700"/>
   <img src="images/nex3.png" width="700"/>
 </p>
 
